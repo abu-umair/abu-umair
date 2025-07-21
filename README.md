@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 
 
-![Muhammad Ridwan](assets/github-header-image.png)
+![Muhammad Ridwan](assets/github-header-image.jpg)
 
 <!--
 **abu-umair/abu-umair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
