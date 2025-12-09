@@ -29,9 +29,13 @@ Here are some ideas to get you started:
 
 
 
-<!-- <h1 align="left">👋 Assalamu'alaikum, saya Abu Umair Ridwan</h1> -->
 
 
+<h1 align="left">Hi, I'm Abu Umair Ridwan 👋</h1>
+
+###
+
+<h6 align="left">Fullstack Web Developer (Laravel • Go • React • Next JS • MySQL/PostgreSQL)</h6>
 
 ###
 
@@ -39,7 +43,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Saat ini saya:<br>📌 🧑‍🏫 Mengajar **bahasa pemrograman** di sebuah pondok pesantren<br>📌 🧑‍💻 Bekerja sebagai **Fullstack Web Developer** di sebuah perusahaan</p>
+<p align="left">📌 🧑‍🏫 Programming Instructor at an Islamic boarding school, guiding students to build strong foundations in software development<br>📌 🧑‍💻 Fullstack Web Developer at a tech company, building modern and scalable web applications</p>
 
 ###
 
@@ -52,32 +56,32 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
-
-###
-##### My Github Stats
-![Muhammad Ridwan's stats](https://github-readme-stats.vercel.app/api?username=abu-umair&show_icons=true&theme=tokyonight)
-##### Connect with me
-![#](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![#](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![#](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![#](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
 ****
 <h2 align="left">Play game with me</h2>
