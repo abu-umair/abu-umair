@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📌 🧑‍🏫 Programming Instructor at an Islamic boarding school, guiding students to build strong foundations in software development<br>📌 🧑‍💻 Fullstack Web Developer at a tech company, building modern and scalable web applications</p>
+<p align="left">📌 🧑‍💻 Fullstack Web Developer at a tech company, building modern and scalable web applications<br>📌 🧑‍🏫 Programming Instructor at an Islamic boarding school, guiding students to build strong foundations in software development</p>
 
 ###
 
