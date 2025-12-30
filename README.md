@@ -43,7 +43,10 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📌 🧑‍💻 Fullstack Web Developer at a tech company, building modern and scalable web applications<br>📌 🧑‍🏫 Programming Instructor at an Islamic boarding school, guiding students to build strong foundations in software development</p>
+<p align="left">
+  📌 <b>Senior Fullstack Engineer</b> | 6+ years specializing in high-performance <b>Microservices</b> and <b>Monolith</b> architectures. Currently driving digital transformation at <b>PT. Kitereative Teknologi Indonesia</b>.<br>
+  📌 <b>Technical Mentor</b> | Empowering the next generation of developers at <b>Pondok Tahfidz plus IT</b>, bridging the gap between complex logic and clean, maintainable code.
+</p>
 
 ###
 
